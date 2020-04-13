@@ -9,9 +9,9 @@ module.exports = {
   siteMetadata: {
     title: `Riewe Web Development`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://www.davidriewe.com/`,
+    siteUrl: `https://davidriewe.netlify.com`,
     home: {
-      title: `Hi! I'm Delog`,
+      title: `Hi, I'm David Riewe`,
       description: `Internet Marketing Consultant skilled in Amazon Web Services, WordPress, HTML, Javascript, PHP, Search Engine Optimization (SEO), web development, and e-commerce. Launched first website in 1997 and in 2005 started using wordpress. Most of the sites I build are for my own marketing goals to generate and resell leads. As of 2019 I have turned my focus to building niche business directories for clients.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
