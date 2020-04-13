@@ -7,12 +7,12 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Delog`,
+    title: `Riewe Web Development`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://delog-w3layouts.netlify.com/`,
+    siteUrl: `https://www.davidriewe.com/`,
     home: {
       title: `Hi! I'm Delog`,
-      description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
+      description: `Internet Marketing Consultant skilled in Amazon Web Services, WordPress, HTML, Javascript, PHP, Search Engine Optimization (SEO), web development, and e-commerce. Launched first website in 1997 and in 2005 started using wordpress. Most of the sites I build are for my own marketing goals to generate and resell leads. As of 2019 I have turned my focus to building niche business directories for clients.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
@@ -46,7 +46,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-30027142-1",
+        trackingId: "UA-47432237-1",
         head: true,
       }
     },
